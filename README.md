@@ -7,4 +7,4 @@ soon i will update this repo with the code and schematics once my parts come and
 
 old rollig codes:
 https://github.com/ioelectro/hcs-programmer-soft
-
+https://github.com/ioelectro/arduino-hcs-programmer
